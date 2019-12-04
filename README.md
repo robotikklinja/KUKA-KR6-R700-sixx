@@ -1,10 +1,10 @@
 # Kuka robot
 ## Eivind og Dorde
-Robotten heter **KR6 R700 sixx**.
+Roboten heter **KR6 R700 sixx**.
 
-Kontrolleren heter **KR C4 compact.**
+Kontrolleren er en **KR C4 compact.**
 
-Maskinens harddrive er flashet på en KUKA-USB James har.
+Maskinens harddrive er "flashet" på en KUKA-USB James har.
 
 For å finne databalder og andre Kuka resusser må du lage en konto på [Kuka Xpert](https://www.kuka.com/en-se/products/robotics-systems/software/cloud-software/kuka-xpert). [Her](https://xpert.kuka.com/ID/AR3605) er en gruppe med relevant informasjon om robotten.
 
