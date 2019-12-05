@@ -12,6 +12,6 @@ På robotten skal vi ha et sikkerhetssystem med sikkerhets PLS-er. Eksempelvis k
 
 I sammenheng med sikkerhet må vi innstallere [WorkVisual](https://kuka.sharefile.eu/share/view/s0977718741844ab8/fo93cf61-6254-4154-bafd-37665fe3ad5f) for å drive med safe operation. Du kan finne video tutorials for WorkVisual [her](https://kuka.sharefile.eu/share/view/s2ceab2ffc3a4ce48/fode320a-d018-49b4-a809-d53effa3f83d).
 
-# Sjelvsjekk
+# Selvsjekk
 
 Robotten skal "sjekke seg selv" med jevne mellomrom. Dette må settes opp.
