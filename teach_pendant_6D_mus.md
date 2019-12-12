@@ -8,6 +8,9 @@ Det er to hoved moduser: **Axis** og **World**
 
 I axis beveger man hver akse, mens world bruker inverse kinematics for å holde end-defectoren på samme akse hele tiden. 
 
+Bildet under viser et oversikt over alle robotens akser i tillegg til hvilken retning som er positiv.
+![](https://github.com/robotikklinja/KUKA-KR-6-R700/blob/master/bilder/akser_oversikt.png)
+
 ## Hvordan bruke musen i axis mode
 Hvis musen først er vanskelig kan man individuelt styre alle aksene med A1-A6 knappene til høyre.
 
@@ -15,9 +18,19 @@ Musen er en 6D mus, eller 6 dimensjonal. Dette betyr at man kan bevege alle 6 ak
 
 Hvis du **drar** musen utover vil det rotere A2, eller hele "overkroppen". Å dytte den inn beveger også A2.
 
-Hvis du **dytter** musen oppover mot NS vil A1 rotere. Merk at med 6D musen er det stor forskjell på å [dytte](https://i.imgur.com/WWW2AgR.png) og å [rotere](https://i.imgur.com/byaUM5G.jpg).
+Hvis du **dytter** musen oppover mot NS vil A1 rotere. 
 
-For å bevege A3 dytter du musen opp mot [taket](https://i.imgur.com/Z8gtZhL.jpg), og ned for andre veien
+Merk at med 6D musen er det stor forskjell på å dytte:
+![](https://github.com/robotikklinja/KUKA-KR-6-R700/blob/master/bilder/dytte_mus.png)
+
+
+...og å rotere.
+![](https://github.com/robotikklinja/KUKA-KR-6-R700/blob/master/bilder/rotere_mus.png)
+
+For å bevege A3 dytter du musen opp mot taket:
+![](https://github.com/robotikklinja/KUKA-KR-6-R700/blob/master/bilder/styre_a3.png)
+
+... og ned for andre veien
 
 
 A4 styres med å **rotere** langs x aksen, eller mot NS. Igjen merk forskjellen fra å dytte og rotere
