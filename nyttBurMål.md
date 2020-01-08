@@ -7,7 +7,7 @@ Målene her er tatt fra utkanten av bjelker på 6cm
 
 | Mål    | Lengde |
 |--------|--------|
-| Lengde | 96cmcm |
+| Lengde | 96cm |
 | Bredde | 92cm   |
 | Høyde  | 200cm  |
 
