@@ -7,9 +7,9 @@ Målene her er tatt fra utkanten av bjelker på 6cm
 
 | Mål    | Lengde |
 |--------|--------|
-| Lengde | 96cm |
+| Lengde | 132cm  |
 | Bredde | 92cm   |
-| Høyde  | 200cm  |
+| Høyde  | 171cm  |
 
 ## Kontrollboks
 Kontrollboksen burde få plass under platen hvor robotten er montert. Denne høyden er lagt til i høyden på buret.
