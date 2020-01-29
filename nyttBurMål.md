@@ -19,3 +19,8 @@ Kontrollboksen burde få plass under platen hvor robotten er montert. Denne høy
 | Lengde | 43cm   |
 | Bredde | 46cm   |
 | Høyde  | 28cm   |
+
+
+## Nytt bur
+Nedenfor ser dere en modell det nye buret.  
+|Nytt bur|https://a360.co/3aRxytN|
