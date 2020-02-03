@@ -23,7 +23,6 @@ Kontrollboksen burde få plass under platen hvor robotten er montert. Denne høy
 
 ## Nytt bur
 Nedenfor ser dere en modell det nye buret.  
-Nytt bur
 
 | Mål    | Lengde   |
 |--------|----------|
