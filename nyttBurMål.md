@@ -23,4 +23,11 @@ Kontrollboksen burde få plass under platen hvor robotten er montert. Denne høy
 
 ## Nytt bur
 Nedenfor ser dere en modell det nye buret.  
-|Nytt bur|https://a360.co/3aRxytN|
+|Nytt bur|
+
+| Mål    | Lengde   |
+|--------|----------|
+| Lengde | 2000mm   |
+| Bredde | 800mm    |
+| Høyde  | 2000mm   |
+
