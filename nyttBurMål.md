@@ -30,3 +30,11 @@ Nedenfor ser dere en modell det nye buret.
 | Bredde | 800mm    |
 | Høyde  | 2000mm   |
 
+## Kontrollboks robotarm
+
+| Mål    | Lengde   |
+|--------|----------|
+| Lengde | 485mm   |
+| Bredde | 500mm    |
+| Høyde  | 280mm   |
+
