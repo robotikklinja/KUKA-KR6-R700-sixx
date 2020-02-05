@@ -38,7 +38,7 @@ Nedenfor ser dere en modell det nye buret.
 | Bredde | 500mm    |
 | Høyde  | 280mm   |
 
-## Suff på gamelt bur 
+## Skuff på gammelt bur 
 
 | Mål    | Lengde   |
 |--------|----------|
