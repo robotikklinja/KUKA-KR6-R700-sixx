@@ -42,7 +42,7 @@ Nedenfor ser dere en modell det nye buret.
 
 | Mål    | Lengde   |
 |--------|----------|
-| Lengde | 1085mm  |
+| Lengde | 1150mm  |
 | Bredde | 605mm    |
 | Høyde  | 265mm   |
 
