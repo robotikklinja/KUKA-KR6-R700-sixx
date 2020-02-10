@@ -26,7 +26,7 @@ Nedenfor ser dere en modell det nye buret.
 
 | Mål    | Lengde   |
 |--------|----------|
-| Lengde | 2000mm   |
+| Lengde | 2450mm   |
 | Bredde | 800mm    |
 | Høyde  | 2000mm   |
 
@@ -48,6 +48,8 @@ Nedenfor ser dere en modell det nye buret.
 | Lengde med skyvebrakett | 1150 mm |
 
 ## Robot-tralle
+| Mål | Lengde |
+| --- | --- |
 | Lengde med plate | 1200 mm |
 | Lengde uten plate | 1000 mm |
 | Bredde med plate | 800 mm |
