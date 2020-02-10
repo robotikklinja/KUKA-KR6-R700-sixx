@@ -45,6 +45,6 @@ Nedenfor ser dere en modell det nye buret.
 | Lengde | 1085mm  |
 | Bredde | 605mm    |
 | Høyde  | 265mm   |
-| Lengde med skyvebrakett | 1150 |
+| Lengde med skyvebrakett | 1150 mm |
 
 
