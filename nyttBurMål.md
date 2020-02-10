@@ -47,4 +47,10 @@ Nedenfor ser dere en modell det nye buret.
 | Høyde  | 265mm   |
 | Lengde med skyvebrakett | 1150 mm |
 
+## Robot-tralle
+| Lengde med plate | 1200 mm |
+| Lengde uten plate | 1000 mm |
+| Bredde med plate | 800 mm |
+| Bredde uten plate | 700 mm |
+| Buffer fra profil på robotikk-bur til tralle uten plate | 130 mm |
 
