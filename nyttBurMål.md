@@ -56,4 +56,4 @@ Nedenfor ser dere en modell det nye buret.
 | Bredde uten plate | 700 mm |
 | Buffer fra profil på robotikk-bur til tralle uten plate | 130 mm |
 
-### Filene ligger under Kuka Robot på Kuben Robotikk sin Fusion 360 mappe
+### Filene ligger under Kuka Robot i Kuben Robotikk sin Fusion 360 mappe
