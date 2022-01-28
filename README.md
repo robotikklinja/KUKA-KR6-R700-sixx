@@ -10,7 +10,7 @@ Roboten og styringen er begge utstyrt med en spesiell sikkerhetsfunksjon som het
 
 Maskinens harddrive er "flashet" (tatt et "image" / speilet harddisken) på en KUKA-USB James har.
 
-For å finne databalder og andre Kuka ressurser må du lage en konto på [Kuka Xpert](https://www.kuka.com/en-se/products/robotics-systems/software/cloud-software/kuka-xpert). [Her](https://xpert.kuka.com/ID/AR3605) er en gruppe med relevant informasjon om roboten.
+For å finne datablader og andre Kuka ressurser må du lage en konto på [Kuka Xpert](https://www.kuka.com/en-se/products/robotics-systems/software/cloud-software/kuka-xpert). [Her](https://xpert.kuka.com/ID/AR3605) er en gruppe med relevant informasjon om roboten.
 
 På roboten skal vi ha et sikkerhetssystem med sikkerhets PLS-er. Eksempelvis kan vi bruke [denne](https://industrial.omron.no/no/products/cip-safety) eller [denne](https://www.beckhoff.com/BK9105/). Her styres alt over en ethernetkabel som skal inn i port X66 på kontrolleren.
 
