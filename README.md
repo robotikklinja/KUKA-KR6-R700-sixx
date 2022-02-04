@@ -24,7 +24,7 @@ Mål er tatt opp for et nytt bur og noe grunnleggende planlegging er gjort.
 
 Vi har også fått en grunnleggende innføring i programmering av roboten.
 
-## Henrik, wojtek, Storm og Danylo
+## Henrik, Wojtek, Storm og Danylo
 Starta opp prosjekt med robotten 11.01.2022
 Stasjonen har blitt ryddet 
 Robotten funker som den skal men litt problemer med pneumatikken
