@@ -9,9 +9,10 @@
 
 ## Integrasjon i Robotcelle skoleåret 2023/24 (Jakob og James)
 
-### August2023: Setter i gang med kommunikasjonen mellom robotstyringen (KRC4 compact) og en Beckhoff PLS (CX9020) med remote I/O (RIO, EK1100) og safety over etheCAT (FSoE).
+### August2023: Setter i gang med kommunikasjonen mellom robotstyringen (KRC4 compact) og en Beckhoff PLS (CX9020) med remote I/O (RIO, EK1100) og safety over EtheCAT (FSoE).
 
 29. august 2023: Fra manualen "MA KR C4 compact Interfaces V12"
+ 	![X55 kontaktpakke medfølgende robot](bilder/X55_IMG_20230829_140621.jpg)
 
 
 # Tidligere Historikk Før sommeren 2023 (< Aug. 2023)
