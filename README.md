@@ -12,8 +12,10 @@
 ### August2023: Setter i gang med kommunikasjonen mellom robotstyringen (KRC4 compact) og en Beckhoff PLS (CX9020) med remote I/O (RIO, EK1100) og safety over EtheCAT (FSoE).
 
 29. august 2023: Fra manualen "MA KR C4 compact Interfaces V12"
+  ![X55 kontaktpakke medfølgende robot](bilder/KUKA_KRC4compact_EK1100mEL6695-1001_Bridge_IMG_20230829_144840.jpg)
  	![X55 kontaktpakke medfølgende robot](bilder/X55_IMG_20230829_140621.jpg)
-  ![Screenshot 1 doku ](bilder/KUKA_X55_Doku_Skjermbilde1_2023-08-29_142957.png)
+  ![Screenshot 1 doku ](bilder/KUKA_X55_Doku_Skjermbilde1.png)
+  ![Screenshot 2 doku ](bilder/KUKA_X55_Doku_Skjermbilde2.png)
 
  
 
