@@ -13,7 +13,8 @@
 
 29. august 2023: Fra manualen "MA KR C4 compact Interfaces V12"
  	![X55 kontaktpakke medfølgende robot](bilder/X55_IMG_20230829_140621.jpg)
-  ![Screenshot 1 doku ](bilder/KUKA_X55_Doku_Skjermbilde1 2023-08-29 142957.png)
+  ![Screenshot 1 doku ](bilder/KUKA_X55_Doku_Skjermbilde1_2023-08-29_142957.png)
+
  
 
 # Tidligere Historikk Før sommeren 2023 (< Aug. 2023)
