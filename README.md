@@ -1,4 +1,11 @@
 # Kuka robot
+
+## Integrasjon i Robotcelle skoleåret 2023/24 (Jakob og James)
+
+### August2023: Setter i gang med kommunikasjonen mellom robotstyringen (KRC4 compact) og en Beckhoff PLS (CX9020) med remote I/O (RIO, EK1100) og safety over etheCAT (FSoE).
+
+#Tidligere Historikk
+
 ## Eivind og Dorde
 Roboten heter **KR6 R700 sixx**.
 
@@ -33,3 +40,5 @@ Robotten funker som den skal men litt problemer med pneumatikken
 # Selvsjekk
 
 Roboten skal "sjekke seg selv" med jevne mellomrom. Dette må settes opp.
+
+
