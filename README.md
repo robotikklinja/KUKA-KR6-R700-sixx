@@ -4,7 +4,7 @@
 
 ### August2023: Setter i gang med kommunikasjonen mellom robotstyringen (KRC4 compact) og en Beckhoff PLS (CX9020) med remote I/O (RIO, EK1100) og safety over etheCAT (FSoE).
 
-#Tidligere Historikk
+# Tidligere Historikk Før sommeren 2023 (< Aug. 2023)
 
 ## Eivind og Dorde
 Roboten heter **KR6 R700 sixx**.
