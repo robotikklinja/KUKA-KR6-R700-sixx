@@ -17,7 +17,11 @@
   ![Screenshot 1 doku ](bilder/KUKA_X55_Doku_Skjermbilde1.png)
   ![Screenshot 2 doku ](bilder/KUKA_X55_Doku_Skjermbilde2.png)
 
- 
+ ### Crash-sensor bypass switch
+
+![image](https://github.com/user-attachments/assets/831c3c1a-f1cc-4498-b820-bf0795ead507)
+
+ [Dokumetert på egen side](crash_sensor_bypass.md)
 
 # Tidligere Historikk Før sommeren 2023 (< Aug. 2023)
 
