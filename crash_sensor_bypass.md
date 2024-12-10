@@ -26,11 +26,8 @@ Crash_sensor_bypassed
 
 [Falstad circuits code, download](bilder/Robot_crash_sensor_bypass.txt) and [Open in https://www.falstad.com/circuit/](https://www.falstad.com/circuit/)
 
-Status: 
+Status:
 
 Avaiting the cable to connect to the robot.
 
-Todo: 
-* Solder cables to the center pin and the NO pin on the momentary switch.
-* Wire up the connection from the robot to the PLC (when we get the cable)
-* Add the resistor and diode. 
+
